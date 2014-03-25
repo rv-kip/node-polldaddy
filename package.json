@@ -23,5 +23,9 @@
   "dependencies": {
     "async": "^0.2.10",
     "request": "^2.34.0"
-  }
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {}
 }
