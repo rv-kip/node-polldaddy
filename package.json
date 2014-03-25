@@ -11,6 +11,14 @@
     "polldaddy"
   ],
   "author": "Kip Gebhardt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rv-kip/node-polldaddy"
+  },
+  "homepage": "https://github.com/rv-kip/node-polldaddy",
+  "bugs": {
+    "url": "https://github.com/rv-kip/node-polldaddy/issues"
+  },
   "license": "MIT",
   "dependencies": {
     "async": "^0.2.10",
